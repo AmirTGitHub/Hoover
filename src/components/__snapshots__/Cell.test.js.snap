@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render cell without hoover or dirt correctly 1`] = `
+<div
+  class="cell"
+  id="12"
+>
+  
+</div>
+`;
+
+exports[`render the cell containing dirt correctly 1`] = `
+<img
+  alt="an imaginary dirt"
+  class="cell"
+  src="Dirt_01.png"
+>
+  
+</img>
+`;
+
+exports[`render the cell containing hoover position 1`] = `
+<img
+  alt="a robotic hoover"
+  class="cell"
+  src="Hoover_01png"
+>
+  
+</img>
+`;

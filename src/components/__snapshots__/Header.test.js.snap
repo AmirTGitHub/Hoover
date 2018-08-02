@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`check heather render corectly 1`] = `
+<div
+  class="header"
+>
+  <h1
+    class="header--title"
+  >
+    
+  </h1>
+</div>
+`;

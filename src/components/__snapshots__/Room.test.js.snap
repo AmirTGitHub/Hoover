@@ -1,0 +1,177 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`not render anything if there was any props 1`] = `
+<div
+  class="roomFloor"
+  style="width:100px"
+>
+  
+</div>
+`;
+
+exports[`render anything if grid is 0 1`] = `
+<div
+  class="roomFloor"
+  style="width:100px"
+>
+  
+</div>
+`;
+
+exports[`render correctly the room 1`] = `
+<div
+  class="roomFloor"
+  style="width:255px"
+>
+  <div
+    class="cell"
+    id="1"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="2"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="3"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="4"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="5"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="6"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="7"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="8"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="9"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="10"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="11"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="12"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="13"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="14"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="15"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="16"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="17"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="18"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="19"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="20"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="21"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="22"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="23"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="24"
+  >
+    
+  </div>
+  <div
+    class="cell"
+    id="25"
+  >
+    
+  </div>
+</div>
+`;

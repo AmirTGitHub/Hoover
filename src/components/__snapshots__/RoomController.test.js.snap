@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render the three inputs with one button 1`] = `
+<div>
+  <div
+    class="centre"
+  >
+    <form
+      style="padding:50px"
+    >
+      <h3>
+        Row
+      </h3>
+      <label>
+        
+      </label>
+      <input
+        data-test="input"
+        name="row"
+        placeholder="number"
+        type="number"
+      >
+        
+      </input>
+    </form>
+    <form
+      style="padding:50px"
+    >
+      <h3>
+        Column
+      </h3>
+      <label>
+        
+      </label>
+      <input
+        data-test="input"
+        name="column"
+        placeholder="number"
+        type="number"
+      >
+        
+      </input>
+    </form>
+  </div>
+  <div
+    class="centre"
+  >
+    <button
+      class="btn"
+    >
+       Create the room 
+    </button>
+  </div>
+</div>
+`;

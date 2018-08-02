@@ -1,0 +1,102 @@
+.header{
+  background-color: rgb(55, 103, 187);
+  height: 70px;
+  padding: 20px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+.header--title{
+  text-align: center
+}
+
+
+.centre{
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+input{
+  height:40px;
+  width:80px;
+  padding: 10px;
+  font-size: 1.2em;
+  color: gray
+}
+.btn{
+background-color: rgb(55, 103, 187);
+width:150px;
+height:50px;
+margin-bottom: 30px;
+color: white;
+font-size: 1em;
+transition: all 0.2s ease;
+}
+
+.btn:hover{
+  background-color: rgb(15, 14, 1);
+}
+.dirt{
+  display: none
+}
+hr{
+  opacity: 0.5;
+}
+.hooverController{
+  float: right;
+
+}
+.btn-controller{
+  height: 50px;
+  width: 50px;
+  background-color: rgb(65, 150, 196);
+  transition: all 0.2s ease;
+
+}
+.btn-controller:hover,.btn-controller:focus {
+  background-color: rgb(15, 14, 1);
+}
+
+.up{
+  transform: rotate(90deg);
+  margin-left: 50px
+}
+
+.right{
+  transform: rotate(180deg);
+  margin-left: 50px
+}
+
+.down{
+  transform: rotate(-90deg);
+  margin-left: 50px
+
+}
+
+.container{
+  display: flex;
+  justify-content: space-around
+  
+}
+.cell{
+  width: 50px;
+  height: 50px;
+  border-top:1px solid gray;
+  border-left:1px solid gray;
+  display:flex;
+  float: left;
+  flex-wrap: wrap
+
+
+}
+.roomFloor{
+  margin-left:10px;
+border-bottom: 1px solid gray;
+border-right: 1px solid gray
+
+}
+.hoover{
+  background-image: url(../src/assets/Hoover_01png)
+}

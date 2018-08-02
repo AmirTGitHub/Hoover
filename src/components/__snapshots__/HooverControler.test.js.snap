@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render correctly 1`] = `
+<div
+  class="hooverController"
+>
+  <h1>
+    Hoover Controller
+  </h1>
+  <button
+    class="up btn-controller"
+  >
+    <img
+      alt="arrow up"
+      src="arrow.png"
+    >
+      
+    </img>
+  </button>
+  <div>
+    <button
+      class="btn-controller"
+    >
+      <img
+        alt="arrow left"
+        src="arrow.png"
+      >
+        
+      </img>
+    </button>
+    <button
+      class="right btn-controller"
+    >
+      <img
+        alt="arrow right"
+        src="arrow.png"
+      >
+        
+      </img>
+    </button>
+  </div>
+  <button
+    class="down btn-controller"
+  >
+    <img
+      alt="arrow down"
+      src="arrow.png"
+    >
+      
+    </img>
+  </button>
+</div>
+`;
