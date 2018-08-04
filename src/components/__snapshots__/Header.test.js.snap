@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`check heather render corectly 1`] = `
+exports[`check header render correctly 1`] = `
 <div
   class="header"
 >

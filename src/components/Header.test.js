@@ -1,6 +1,6 @@
 import Header from './Header'
 
-it('check heather render corectly', () => {
+it('check header render correctly', () => {
     const wrapper = render(
         <Header title='hoover app' />
     )
